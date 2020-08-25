@@ -1,0 +1,43 @@
+﻿*{
+    padding:0;
+    margin:0;
+}
+body {
+    background-image:url(Resource/Hexagonal_background.jpg);
+    background-size:600px;
+}
+.header{
+    background-color:#191919;
+    height:90px;
+}
+.title{
+    background-image:url(Resource/title_renew.png);
+    width:70%;
+    height:70px;
+    margin:auto;
+    background-repeat:no-repeat;
+    background-size:100%;
+    padding-top:10px;
+}
+.logo{
+    
+    background-image:url(Resource/DarkShooter007.png);
+    width:70%;
+    height:70px;
+    margin:auto;
+    background-repeat:no-repeat;
+    background-size:100%;
+    opacity:0.3;
+}
+.hr_line{
+    background-image:url(Resource/Horizontal_line.jpg);
+    background-repeat:repeat-x;
+    height:10px;
+    background-size:3px;
+}
+.menu{
+    background-repeat:repeat-x;
+    background-image:url(Resource/Header_shadow_bottom.png);
+    height:62px;
+
+}
